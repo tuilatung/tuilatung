@@ -1,8 +1,3 @@
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tuilatung)  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tuilatung)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tuilatung2001)  
-
 <h1 align="center">Hi 👋, I'm Tung Huynh Thien</h1>
 <h3 align="center">Machine Learning / Engineer; Python Software Developer</h3>
 
